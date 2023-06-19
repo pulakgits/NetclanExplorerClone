@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomSearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <!-- Change search icon color to white -->
+        <item name="searchIcon">@drawable/baseline_search_24</item>
+        <!-- Change search text color to white -->
+        <item name="android:textColor">@android:color/white</item>
+        <!-- Change close button (cross) color to white -->
+        <item name="closeIcon">@drawable/baseline_close_24</item>
+    </style>
+
+
+    <style name="CustomSeekBar" parent="Widget.AppCompat.SeekBar">
+        <item name="android:height">4dp</item>
+        <item name="android:thumbOffset">8dp</item>
+    </style>
+
+
+</resources>

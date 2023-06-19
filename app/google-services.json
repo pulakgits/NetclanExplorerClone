@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799762822714",
+    "project_id": "netclanexplorerclone",
+    "storage_bucket": "netclanexplorerclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799762822714:android:401f9736b38b01c9fce703",
+        "android_client_info": {
+          "package_name": "com.basetechz.netclanexplorerclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799762822714-6g8tf6020120um3lgi2ihvahu1rohp9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmfkrCC_2wjnVRR3ewg-R_EAXAVZ2iK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799762822714-6g8tf6020120um3lgi2ihvahu1rohp9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
